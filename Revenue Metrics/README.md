@@ -14,7 +14,7 @@
 - Graphs and a dashboard were created.
 - The dashboard includes filters for date, user language, and user age.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboards_Images/Analysis_Revenue_Metrics_Dashboard_All.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/Analysis_Revenue_Metrics_Dashboard_All.png)
 
 ---
 
@@ -47,7 +47,7 @@
 
 **Paid Users:** Displays the number of unique users who made payments for a product or service within a month. This metric helps evaluate the effectiveness of monetization strategies, user retention, and business growth.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/MRR_PaidUser.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/MRR_PaidUser.png)
 
 Together, these metrics provide insights into business revenue stability and user engagement with paid services.
 
@@ -59,7 +59,7 @@ Together, these metrics provide insights into business revenue stability and use
 
 **New Paid Users:** This metric indicates the number of users who started paying for a product or service for the first time within a given period. It highlights the effectiveness of the company’s user acquisition strategies.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/NewMRR_NewPaidUser.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/NewMRR_NewPaidUser.png)
 
 These metrics help measure the efficiency of acquiring and retaining new paying users and their impact on total revenue.
 
@@ -71,7 +71,7 @@ These metrics help measure the efficiency of acquiring and retaining new paying 
 
 **Churned Users:** The number of users who stopped using the company’s paid services or products over a given period.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/ChurnedRevenue_ChurnedUsers.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/ChurnedRevenue_ChurnedUsers.png)
 
 These metrics help measure revenue and user losses, which can be useful for evaluating retention strategies and reducing churn.
 
@@ -83,7 +83,7 @@ These metrics help measure revenue and user losses, which can be useful for eval
 
 **Contraction MRR:** Measures changes in MRR due to subscription downgrades, reduced spending, or canceled payments.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/Exprension_Contraction_MRR.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/Exprension_Contraction_MRR.png)
 
 These metrics help evaluate internal revenue changes among existing customers, identifying patterns in user behavior such as upgrades or downgrades.
 
@@ -95,7 +95,7 @@ These metrics help evaluate internal revenue changes among existing customers, i
 
 **LTV (Customer Lifetime Value):** Represents the total revenue generated from a user throughout their lifetime as a customer. It may vary depending on changes in spending levels and user profitability.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/LT_LTV.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/LT_LTV.png)
 
 An increase in average lifetime may indicate improved customer retention, while a rising LTV suggests successful monetization strategies or increased average spending.
 
@@ -107,7 +107,7 @@ An increase in average lifetime may indicate improved customer retention, while 
 
 **Paid Users:** The number of users who paid for a product or service within a given period.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/raw/main/Dashboards_PNG/ARPPU_PaidUser.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/ARPPU_PaidUser.png)
 
 Analyzing ARPPU and paid user numbers helps assess monetization effectiveness, identify key user segments, and optimize revenue strategies.
 
