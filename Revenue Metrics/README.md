@@ -14,7 +14,7 @@
 - Graphs and a dashboard were created.
 - The dashboard includes filters for date, user language, and user age.
 
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/Analysis_Revenue_Metrics_Dashboard_All.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboards_Images/Analysis_Revenue_Metrics_Dashboard_All.png)
 
 ---
 
