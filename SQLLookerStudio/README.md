@@ -13,13 +13,13 @@ Working with advertising platform data from Facebook and Google Ads included two
 ### 1. SQL Query for Looker Studio
 - Data merging and aggregation of advertising campaign data.
 - Uploading to Looker Studio for metric calculations: CTR, CPC, CPM, and ROMI.  
-[SQL for Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/prepare_looker_UA.sql)
+[SQL for Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/prepare_looker.sql)
 
 ### 2. Advanced SQL Analysis
 - Calculating metrics and their trends directly in SQL.
 - Analyzing percentage changes between months.
   
-[Advanced SQL Analysis](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/metrics_trends_UA.sql)
+[Advanced SQL Analysis](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/metrics_trends.sql)
 
 ### Metrics
 The project demonstrates two methods for calculating metrics: within SQL queries and using calculated fields in Looker Studio. Specifically:
@@ -37,7 +37,7 @@ Data from Google Analytics 4 (GA4) was used to:
 - Analyze traffic sources and user activity.
 - Explore the relationship between user activity and purchases.
 - Prepare data for visualization in Looker Studio.  
-[SQL in BigQuery for eCommerce](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/BigQuery_Project.sql)
+[SQL in BigQuery for eCommerce](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/BigQueryProject.sql)
 
 ---
 
@@ -49,14 +49,14 @@ Looker Studio enabled interactive data analysis:
 - Changes in the number of campaigns over time.
 - Comparison of key metrics across campaigns.
    
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/Marketing_metrics_with_looker.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/Marketing_metrics_with_looker.png)
 
 
 ### 2. eCommerce Data from BigQuery
 - Conversion funnels analyzing visitor stages from product view to purchase.
 - User activity analysis by traffic sources, session frequency, and conversions.
   
-![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/eCommerce_BigQuery.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/eCommerce_BigQuery.png)
 
 ---
 
@@ -69,11 +69,11 @@ Looker Studio enabled interactive data analysis:
 ---
 
 ## Resource Links
-- [SQL for Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/prepare_looker_UA.sql)
-- [Advanced SQL Analysis](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/metrics_trends_UA.sql)
-- [SQL for eCommerce](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/BigQuery_Project.sql)
-- [Marketing Metrics Dashboard in Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/Marketing_metrics_with_looker.png)
-- [eCommerce Data Dashboard in Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/eCommerce_BigQuery.png)
+- [SQL for Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/prepare_looker.sql)
+- [Advanced SQL Analysis](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/metrics_trends.sql)
+- [SQL for eCommerce](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/BigQueryProject.sql)
+- [Marketing Metrics Dashboard in Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/Marketing_metrics_with_looker.png)
+- [eCommerce Data Dashboard in Looker Studio](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/eCommerce_BigQuery.png)
 
 ---
 
