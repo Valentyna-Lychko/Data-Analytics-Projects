@@ -123,8 +123,8 @@ Using SQL and Tableau proved highly effective in analyzing revenue metrics, unco
 
 ### Project Resources
 
-- [SQL Code](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/SQL_Files/RevenueMetricsUA.sql) – SQL query file used for data processing.
-- [Revenue Analysis PDF](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/REVENUE_ANALYSIS.pdf) – A static dashboard image demonstrating key revenue analysis insights.
+- [SQL Code](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/SQL_Files/RevenueMetrics.sql) – SQL query file used for data processing.
+
 - [Tableau Public Dashboard](https://public.tableau.com/app/profile/valentyna.lychko/viz/AnalysisRevenueMetrics/REVENUEANALYSIS) – An interactive revenue analysis dashboard.
 
 
