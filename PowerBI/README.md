@@ -21,7 +21,7 @@ The "Supermarket Sales" dataset contains information about products, sellers, an
 It is designed for analyzing product popularity, customer behavior, and sales trends based on dates.  
 The dashboard also includes a currency conversion feature for easy data interpretation.
 
-![]( https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_PNG/Sales_Analysis_with_Currency_Conversion_UA.png)
+![](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboard_Images/Sales_Analysis_with_Currency_Conversion.png)
 
 ---
 
@@ -113,11 +113,9 @@ IF(
 
 ## Project Files:
 
-- **[PBIX File](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion.pbix)**  
+- **[PBIX File](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/blob/main/Dashboards/Sales_Analysis_with_Currency_Conversion.pbix)**  
   Power BI dashboard file.
 
-- **[PDF Report](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-/blob/main/Dashboards_and_Reports/Sales_Analysis_with_Currency_Conversion_UA.pdf)**  
-  A PDF document containing the dashboard visualizations and analytics.
 
 ---
 
