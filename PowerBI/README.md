@@ -121,6 +121,6 @@ IF(
 
 This project helps you improve your Power BI skills by building analytical solutions based on real data.   
 
-Other Power BI projects are available in the **[Power BI] (https://github.com/Valentyna-Lychko/Power-BI) repository**. 
+Other Power BI projects are available in the **[Power BI](https://github.com/Valentyna-Lychko/Power-BI) repository**. 
 
 ---
