@@ -119,8 +119,8 @@ IF(
 
 ---
 
-This project enhances Power BI skills by creating analytical solutions based on real-world data.  
+This project helps you improve your Power BI skills by building analytical solutions based on real data.   
 
-Other Power BI projects are available in the **Power BI Repository**.  
+Other projects using tools such as Tableau, Looker Studio, SQL, and BigQuery can be found in the **[Data-Analytics-Projects](https://github.com/Valentyna-Lychko/Data-Analytics-Projectsrepository.  
 
 ---
